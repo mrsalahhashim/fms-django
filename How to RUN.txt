@@ -1,0 +1,38 @@
+------------------------------------------------------------------
+--- File Management System (fms_django) using Django / Python. ---
+------------------------------------------------------------------
+
+HOW TO RUN 
+
+(Step One): Download/Install the following:
+
+	Python (I used v3.9.1)
+	Django (I used v4.0.3)
+	PIP (for python modules installation)
+
+
+(Step Two): Setup/Installation:
+
+1. Download and Extract the provided source code zip file.
+2. Open your Terminal/Command Prompt window. (make sure to add "python" and "pip" in your environment variables).
+3. Change the working directory to the extracted source code folder. i.e. cd C:\Users\Downloads\fms_django.
+4. Run the following commands:
+	pip install Django
+	pip install -r requirements.txt
+	python manage.py migrate
+	python manage.py runserver
+5. Open a web browser and browse http://localhost:8000/ or http://127.0.0.1:8000/
+
+Super User Access Information:
+Username: admin
+Password: admin123
+
+
+------------------------------------------------------------------------------------------
+------------- For any issues, bugs or errors, don't hesitate to contact me ---------------
+-------------------------------mr.salahhashim@gmail.com-----------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++ This File Management System Project is accessible and 100% free to use to anyone. ++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
